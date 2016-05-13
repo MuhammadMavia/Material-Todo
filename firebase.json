@@ -1,0 +1,9 @@
+{
+  "firebase": "menu-material-todo",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
